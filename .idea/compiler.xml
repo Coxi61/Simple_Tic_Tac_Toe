@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Declarations.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Determine_the_output.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Equal_arrays.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Initializing_an_array_of_characters.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Initializing_an_array_of_integers.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Initializing_an_array_of_longs.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-The_last_element_of_an_array.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Abs_method.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Area_of_parallelogram.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Correct_names_for_methods.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Method_invocation.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Defining_classes-A_class_with_a_single_integer_field.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Defining_classes-A_keyword_for_creating_objects.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Defining_classes-Books.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Defining_classes-Complex_numbers.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Defining_classes-Correct_fields.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Defining_classes-Inner_boxes.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Defining_classes-The_keyword.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Defining_classes-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Find_the_correct_statement.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Print_the_age.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Select_the_statement.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-What's_wrong.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Find_the_sum.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Individual_taxes.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Select_one_loop.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Triples.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Symmetric_matrix.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-The_third_row.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Static_members-Accessing_static_members.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Static_members-Applying_the_static_keyword.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Static_members-Searching_bugs.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Static_members-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Static_members-Time_constants.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" options="--add-modules java.base" />
+    </option>
+  </component>
+</project>
